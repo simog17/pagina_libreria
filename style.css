@@ -1,0 +1,19 @@
+h2 {
+  color : yellow ;
+}
+
+span {
+  background : red ;
+  -moz-box-shadow:    3px 3px 5px 6px #0fdba4;
+  -webkit-box-shadow: 3px 3px 5px 6px #0fdba4;
+  box-shadow:         3px 3px 5px 6px #0fdba4;
+}
+
+button {
+  color : black;
+  padding: 10px 50px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+}
